@@ -1,0 +1,17 @@
+:root {
+  --bg: #fcfcfc;
+  --color-container: #f3f4f6;
+  --title: #012345;
+  --grey: #677b8f;
+  --card: #fcfcfc;
+  --rent: #f84ab3;
+}
+
+.dark-mode {
+  --bg: #012345;
+  --color-container: #011c37;
+  --title: #fcfcfc;
+  --grey: #99a7b5;
+  --card: #012345;
+  --rent: #f84ab3;
+}
